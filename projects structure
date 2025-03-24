@@ -1,0 +1,26 @@
+e-commerce-website/
+├── assets/
+│   └── img/
+│       └── products/
+|-- css/
+│    │── style.css
+│    └── admin.css
+├── js/
+│    ├── main.js
+│    ├── cart.js
+│    ├── auth.js
+│    └── admin.js
+├── index.html
+├── products.html
+├── product-detail.html
+├── cart.html
+├── checkout.html
+├── login.html
+├── register.html
+├── admin/
+│   ├── dashboard.html
+│   ├── products.html
+│   └── orders.html
+└── data/
+    ├── products.js
+    └── users.js

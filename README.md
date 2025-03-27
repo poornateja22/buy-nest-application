@@ -1,7 +1,7 @@
 # BuyNest - E-commerce Website
 
 ## Project Overview
-BuyNest is a fully functional e-commerce website built using HTML, CSS, JavaScript, and Bootstrap. It includes user authentication, a shopping cart, product management, and an admin panel.
+BuyNest is an e-commerce platform designed to allow users to browse, search, and purchase products easily while giving administrators the ability to manage products and orders efficiently.
 
 
 ## User Features:
